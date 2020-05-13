@@ -2,4 +2,5 @@
 
 This repository contains various assignments and, most importantly, capstone project that I created while attending Springboard's "Data Science Career Track" bootcamp.
 
-## This is a test
+## Recruiters/Companies/Hiring Managers, please read:
+The main culmination of the Data Science Bootcamp is the creation of the capstone projects, of which there are 2.
